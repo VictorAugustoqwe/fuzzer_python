@@ -1,4 +1,4 @@
-def do_stuff(s: str) -> int:
+def do_stuff_f(s: str) -> int:
     # Initialize a list with values equivalent to Vec in C++
     vec = [0, 1, 2, 3, 4]
     
